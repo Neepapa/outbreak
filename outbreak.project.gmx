@@ -69,6 +69,14 @@
       <sprite>sprites\nhilo_sprt</sprite>
       <sprite>sprites\skona_sprt</sprite>
     </sprites>
+    <sprite>sprites\pig</sprite>
+    <sprite>sprites\rat</sprite>
+    <sprite>sprites\coaqi</sprite>
+    <sprite>sprites\s_guava</sprite>
+    <sprite>sprites\mangrove</sprite>
+    <sprite>sprites\mongoose</sprite>
+    <sprite>sprites\miconia</sprite>
+    <sprite>sprites\cat</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -79,6 +87,7 @@
     <background>background\background6</background>
     <background>background\background7</background>
     <background>background\background8</background>
+    <background>background\background9</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -124,6 +133,8 @@
     <room>rooms\room3</room>
     <room>rooms\room4</room>
     <room>rooms\room5</room>
+    <room>rooms\room8</room>
+    <room>rooms\room9</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
