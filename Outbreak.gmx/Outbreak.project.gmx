@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+<<<<<<< HEAD
     <sprite>sprites\play_btn</sprite>
     <sprite>sprites\spr_cat</sprite>
     <sprite>sprites\spr_coaqi</sprite>
@@ -18,13 +19,19 @@
     <sprite>sprites\spr_rat</sprite>
     <sprite>sprites\spr_sguava</sprite>
     <sprite>sprites\spr_status</sprite>
+=======
+    <sprite>sprites\play_spr</sprite>
+    <sprite>sprites\money_spr</sprite>
+    <sprite>sprites\health_spr</sprite>
+>>>>>>> 54da1302428a05bf9979b3bdf9a33781a16501ec
   </sprites>
   <backgrounds name="background">
-    <background>background\background0</background>
-    <background>background\background1</background>
+    <background>background\bk_flash</background>
+    <background>background\bk_play</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
+<<<<<<< HEAD
     <object>objects\playObject</object>
     <object>objects\obj_cat</object>
     <object>objects\obj_coaqi</object>
@@ -37,10 +44,15 @@
     <object>objects\obj_rat</object>
     <object>objects\obj_sguava</object>
     <object>objects\obj_status</object>
+=======
+    <object>objects\play_btn</object>
+    <object>objects\money_obj</object>
+    <object>objects\health_obj</object>
+>>>>>>> 54da1302428a05bf9979b3bdf9a33781a16501ec
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
-    <room>rooms\room1</room>
+    <room>rooms\rm_flash</room>
+    <room>rooms\rm_play</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
