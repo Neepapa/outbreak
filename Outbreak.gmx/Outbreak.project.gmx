@@ -7,6 +7,8 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\play_btn</sprite>
+    <sprite>sprites\money_spr</sprite>
+    <sprite>sprites\health_spr</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -15,6 +17,8 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\playObject</object>
+    <object>objects\money_obj</object>
+    <object>objects\health_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
