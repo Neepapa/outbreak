@@ -3,25 +3,6 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <datafiles number="1" name="datafiles">
-    <datafile>
-      <name>GameMaker-Studio.lnk</name>
-      <exists>-1</exists>
-      <size>3077</size>
-      <exportAction>2</exportAction>
-      <exportDir></exportDir>
-      <overwrite>0</overwrite>
-      <freeData>-1</freeData>
-      <removeEnd>0</removeEnd>
-      <store>0</store>
-      <ConfigOptions>
-        <Config name="Default">
-          <CopyToMask>9223372036854775807</CopyToMask>
-        </Config>
-      </ConfigOptions>
-      <filename></filename>
-    </datafile>
-  </datafiles>
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
@@ -40,21 +21,12 @@
     <sprite>sprites\spr_rat</sprite>
     <sprite>sprites\spr_sguava</sprite>
     <sprite>sprites\spr_status</sprite>
-    <sprite>sprites\gui_options</sprite>
-    <sprite>sprites\pause</sprite>
-    <sprite>sprites\pause_popup</sprite>
-    <sprite>sprites\store</sprite>
-    <sprite>sprites\gui_play</sprite>
-    <sprite>sprites\missions</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bk_flash</background>
     <background>background\bk_play</background>
   </backgrounds>
   <paths name="paths"/>
-  <fonts name="fonts">
-    <font>fonts\font1</font>
-  </fonts>
   <objects name="objects">
     <object>objects\play_btn</object>
     <object>objects\money_obj</object>
@@ -71,8 +43,6 @@
     <object>objects\obj_rat</object>
     <object>objects\obj_sguava</object>
     <object>objects\obj_status</object>
-    <object>objects\obj_play_phase</object>
-    <object>objects\obj_pause_phase</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_flash</room>
