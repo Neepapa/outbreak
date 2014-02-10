@@ -6,23 +6,23 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\play_btn</sprite>
+    <sprite>sprites\play_spr</sprite>
     <sprite>sprites\money_spr</sprite>
     <sprite>sprites\health_spr</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\background0</background>
-    <background>background\background1</background>
+    <background>background\bk_flash</background>
+    <background>background\bk_play</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\playObject</object>
+    <object>objects\play_btn</object>
     <object>objects\money_obj</object>
     <object>objects\health_obj</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
-    <room>rooms\room1</room>
+    <room>rooms\rm_flash</room>
+    <room>rooms\rm_play</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
