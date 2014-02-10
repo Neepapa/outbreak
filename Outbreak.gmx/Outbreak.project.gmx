@@ -10,6 +10,17 @@
     <sprite>sprites\money_spr</sprite>
     <sprite>sprites\health_spr</sprite>
     <sprite>sprites\sIsland_spr</sprite>
+    <sprite>sprites\spr_cat</sprite>
+    <sprite>sprites\spr_coaqi</sprite>
+    <sprite>sprites\spr_health</sprite>
+    <sprite>sprites\spr_mangroves</sprite>
+    <sprite>sprites\spr_micona</sprite>
+    <sprite>sprites\spr_money</sprite>
+    <sprite>sprites\spr_mongoose</sprite>
+    <sprite>sprites\spr_pig</sprite>
+    <sprite>sprites\spr_rat</sprite>
+    <sprite>sprites\spr_sguava</sprite>
+    <sprite>sprites\spr_status</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bk_flash</background>
@@ -21,6 +32,17 @@
     <object>objects\money_obj</object>
     <object>objects\health_obj</object>
     <object>objects\object4</object>
+    <object>objects\obj_cat</object>
+    <object>objects\obj_coaqi</object>
+    <object>objects\obj_health</object>
+    <object>objects\obj_mangroves</object>
+    <object>objects\obj_micona</object>
+    <object>objects\obj_money</object>
+    <object>objects\obj_mongoose</object>
+    <object>objects\obj_pig</object>
+    <object>objects\obj_rat</object>
+    <object>objects\obj_sguava</object>
+    <object>objects\obj_status</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_flash</room>

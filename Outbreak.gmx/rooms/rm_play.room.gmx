@@ -58,6 +58,7 @@
     <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_94332029" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_9E14BA79" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_DBB5AA26" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
+    <instance objName="obj_coaqi" x="3296" y="2816" name="inst_C9C7DC41" locked="0" code="" scaleX="1" scaleY="0" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
