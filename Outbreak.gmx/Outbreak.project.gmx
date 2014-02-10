@@ -21,6 +21,12 @@
     <sprite>sprites\spr_rat</sprite>
     <sprite>sprites\spr_sguava</sprite>
     <sprite>sprites\spr_status</sprite>
+    <sprite>sprites\gui_options</sprite>
+    <sprite>sprites\pause</sprite>
+    <sprite>sprites\pause_popup</sprite>
+    <sprite>sprites\store</sprite>
+    <sprite>sprites\gui_play</sprite>
+    <sprite>sprites\missions</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bk_flash</background>
