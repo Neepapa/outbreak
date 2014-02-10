@@ -40,8 +40,8 @@
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="-1" objName="&lt;undefined&gt;" xview="3776" yview="2112" wview="1024" hview="615" xport="0" yport="0" wport="1076" hport="615" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="-1" objName="&lt;undefined&gt;" xview="0" yview="0" wview="5076" hview="5076" xport="0" yport="0" wport="1076" hport="615" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="3000" yview="2000" wview="1024" hview="615" xport="0" yport="0" wport="1024" hport="615" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
@@ -55,7 +55,9 @@
     <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_7D155DC7" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_19FE13CF" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="&lt;undefined&gt;" x="3872" y="2176" name="inst_7458D312" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="health_obj" x="3552" y="1824" name="inst_7939E902" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_94332029" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
+    <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_9E14BA79" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
+    <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_DBB5AA26" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

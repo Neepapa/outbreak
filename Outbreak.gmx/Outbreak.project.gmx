@@ -9,6 +9,7 @@
     <sprite>sprites\play_spr</sprite>
     <sprite>sprites\money_spr</sprite>
     <sprite>sprites\health_spr</sprite>
+    <sprite>sprites\sIsland_spr</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bk_flash</background>
@@ -19,6 +20,7 @@
     <object>objects\play_btn</object>
     <object>objects\money_obj</object>
     <object>objects\health_obj</object>
+    <object>objects\object4</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_flash</room>
