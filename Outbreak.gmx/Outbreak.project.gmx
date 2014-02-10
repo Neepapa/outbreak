@@ -7,6 +7,17 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\play_btn</sprite>
+    <sprite>sprites\spr_cat</sprite>
+    <sprite>sprites\spr_coaqi</sprite>
+    <sprite>sprites\spr_health</sprite>
+    <sprite>sprites\spr_mangroves</sprite>
+    <sprite>sprites\spr_micona</sprite>
+    <sprite>sprites\spr_money</sprite>
+    <sprite>sprites\spr_mongoose</sprite>
+    <sprite>sprites\spr_pig</sprite>
+    <sprite>sprites\spr_rat</sprite>
+    <sprite>sprites\spr_sguava</sprite>
+    <sprite>sprites\spr_status</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -15,6 +26,17 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\playObject</object>
+    <object>objects\obj_cat</object>
+    <object>objects\obj_coaqi</object>
+    <object>objects\obj_health</object>
+    <object>objects\obj_mangroves</object>
+    <object>objects\obj_micona</object>
+    <object>objects\obj_money</object>
+    <object>objects\obj_mongoose</object>
+    <object>objects\obj_pig</object>
+    <object>objects\obj_rat</object>
+    <object>objects\obj_sguava</object>
+    <object>objects\obj_status</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
