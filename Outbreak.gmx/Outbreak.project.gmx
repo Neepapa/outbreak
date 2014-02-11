@@ -55,7 +55,6 @@
     <background>background\bk_play</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\Text_Font2</font>
     <font>fonts\Text_Font1</font>
@@ -80,6 +79,7 @@
     <object>objects\obj_pause_phase</object>
     <object>objects\mission_screen</object>
     <object>objects\options</object>
+    <object>objects\obj_zoom</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_flash</room>
