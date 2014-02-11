@@ -46,14 +46,19 @@
     <sprite>sprites\store</sprite>
     <sprite>sprites\gui_play</sprite>
     <sprite>sprites\missions</sprite>
+    <sprite>sprites\scoreMulti</sprite>
+    <sprite>sprites\citricAcid</sprite>
+    <sprite>sprites\hireworkers</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bk_flash</background>
     <background>background\bk_play</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts"/>
   <fonts name="fonts">
-    <font>fonts\font1</font>
+    <font>fonts\Text_Font2</font>
+    <font>fonts\Text_Font1</font>
   </fonts>
   <objects name="objects">
     <object>objects\play_btn</object>
