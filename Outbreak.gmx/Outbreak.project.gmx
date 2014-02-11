@@ -59,7 +59,7 @@
     <object>objects\play_btn</object>
     <object>objects\money_obj</object>
     <object>objects\health_obj</object>
-    <object>objects\object4</object>
+    <object>objects\minimap</object>
     <object>objects\obj_cat</object>
     <object>objects\obj_coaqi</object>
     <object>objects\obj_health</object>
@@ -73,10 +73,13 @@
     <object>objects\obj_status</object>
     <object>objects\obj_play_phase</object>
     <object>objects\obj_pause_phase</object>
+    <object>objects\mission_screen</object>
+    <object>objects\options</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_flash</room>
     <room>rooms\rm_play</room>
+    <room>rooms\menu</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
